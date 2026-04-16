@@ -1,3 +1,5 @@
+(Trabajo suspendido Temporalmente)
+
 # Sistema de Biblioteca Escolar
 
 Sistema local para gestión de préstamos de libros en una escuela pública. Diseñado para funcionar sin conexión a internet y con posibilidad de ampliarse a la administración de fichas técnicas de alumnos.
