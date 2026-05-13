@@ -1,8 +1,0 @@
-# Ignorar archivos temporales de Word y sistema
-~$*
-*.tmp
-*.log
-*.bak
-*.swp
-.DS_Store
-Thumbs.db

@@ -111,5 +111,5 @@ def crear_tablas(conexion: sqlite3.Connection, cursor: sqlite3.Cursor) -> None:
         print("Ocurrió un error",e)
 
 if __name__ == "__main__":
-    conexion, cursor = crear_bd()
-    crear_tablas(conexion, cursor)
+    conn, cur = crear_bd()
+    crear_tablas(conn, cur)
